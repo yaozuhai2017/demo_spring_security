@@ -29,6 +29,7 @@
             <user-service>
                 <user name="admin" password="123456" authorities="ROLE_USER" />
                 <user name="admin1" password="a" authorities="ROLE_USER" />
+                <user name="admin2" password="a2" authorities="ROLE_USER" />
             </user-service>
         </authentication-provider>
     </authentication-manager>
